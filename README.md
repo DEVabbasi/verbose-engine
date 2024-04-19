@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This App is a GPT3 Ui(Front-end) design and I used React JS and CSS to create this design.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
